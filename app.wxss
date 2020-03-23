@@ -1,0 +1,13 @@
+/**app.wxss**/
+.lizihao {
+  font-family:Georgia, ‘Times New Roman’, Times, serif;
+  font-size: 20px;
+} 
+.page {
+    min-height: 100%;
+    flex: 1;
+    font-size: 16px;
+    font-family: -apple-system-font,Helvetica Neue,Helvetica,sans-serif;
+    overflow: hidden;
+    text-align: center;
+}
