@@ -11,3 +11,16 @@
     overflow: hidden;
     text-align: center;
 }
+.jx_card{
+    width: 100%;
+    height: 295rpx;
+    position: relative
+}
+.jx_logo{
+    margin-left: 470rpx;
+    margin-top:20rpx;
+    width: 200rpx;
+    height: 200rpx;
+    float: left;
+    position: absolute;
+}
